@@ -1,0 +1,95 @@
+body{
+	background: #DCDCDC;
+}
+div{
+	background: white;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 20px;
+}
+.header{
+	background: white;
+	text-align: left;
+	width: 550px;
+}
+
+.primerafoto{
+	width: 550px;
+	height: 550px;
+	font-size: 20px;
+}
+.titulo1{
+	float: left;
+	width: 450px;
+	height: 10px;
+	font-size: 23px;
+	margin: 10px  10px;
+}
+
+.numero1 p{
+	float: right;
+	margin-right: 10px;
+	color: #D3D3D3;
+}
+.imagen1 img{
+	width: 550px;
+	height: auto;
+}
+.piedefoto1{
+	border: 10px;
+	font-size: 20px;
+	margin: 15px  15px;
+}
+
+.segundafoto{
+	width: 550px;
+	height: 480px;
+	font-size: 20px;
+}
+.titulo2{
+	float: left;
+	width: 450px;
+	font-size: 23px;
+	height: 10px;
+	margin: 10px  10px;
+}
+.imagen2 img{
+	width: 550px;
+	height: auto;
+}
+.numero2 p{
+	float: right;
+	margin-right: 10px;
+	color: #D3D3D3;
+}
+.piedefoto2{
+	font-size: 20px;
+	margin: 15px  15px;
+}
+.tercerafoto{
+	width: 550px;
+	height: 530px;
+	font-size: 20px;
+}
+.titulo3{
+	float: left;
+	width: 450px;
+	font-size: 23px;
+	margin: 10px  10px;
+	height: 10px;
+}
+.numero3{
+	float: right;
+	color: #D3D3D3;
+	margin-right: 10px;
+}
+
+.imagen3 img{
+	width: 550px;
+	height: auto;
+}
+.piedefoto3{
+	font-size: 20px;
+	margin: 15px  15px;
+}
